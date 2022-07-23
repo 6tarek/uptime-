@@ -1,0 +1,122 @@
+body{
+    background-image: url("https://images-ext-1.discordapp.net/external/JGOfNiz2ff9eBYEyQ4Jhoxk0_jALAuDJjGxQGah7Dwo/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/934837645606023189/7737d1cf24b3cf99fe0f4498b53a4515.png?width=511&height=511");
+    background-size: 90%;
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+    width: auto;
+    height: auto;
+    
+}
+
+a:link{
+    background-color:color rgb(90, 90, 250);
+    color:antiquewhite;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 20px;
+}
+a:hover{
+    color: rgb(200, 25, 192);
+}
+
+.dvl{
+    display: block;
+    font-size: 80%;
+    font-weight: 900;
+    font-style: oblique;
+    display: inline-block;
+    border: 25px black double ;
+    width: 50%;
+    text-decoration: none;
+    background-color: rgb(119, 20, 20);
+    font-family: 'Courier New', Courier, monospace;
+    margin: auto;
+    color: green;
+    border-radius: 35px;
+    text-align: center;
+}
+.inv{
+    display: block;
+    font-size: 30px;
+    font-weight: 900;
+    font-style: oblique;
+    font-family: 'Courier New', Courier, monospace;
+    width: 30%;
+    border: 10px black double;
+    display: inline-block;
+    background-color:rgb(31, 8, 95);
+    margin-left: 10%;
+    text-align: center;
+    border-radius: 35px;
+}
+.supp{
+    font-size: 30px;
+    font-weight: 900;
+    font-style: oblique;
+    font-family: 'Courier New', Courier, monospace;
+    width: 30%;
+    border: 10px black double;
+    display: inline-block;
+    background-color:rgb(31, 8, 95);
+    margin-left: 10%;
+    text-align: center;
+    border-radius: 35px;
+}
+.cmp{
+  
+    font-size: 30px;
+    font-weight: 900;
+    font-style: oblique;
+    font-family: 'Courier New', Courier, monospace;
+    width: 30%;
+    border: 10px black double;
+    display: inline-block;
+    background-color:rgb(31, 8, 95);
+    margin-left: 10%;
+    text-align: center;
+    border-radius: 35px;
+}
+.sugg{
+   
+    font-size: 30px;
+    font-weight: 900;
+    font-style: oblique;
+    font-family: 'Courier New', Courier, monospace;
+    width: 30%;
+    border: 10px black double;
+    display: inline-block;
+    background-color:rgb(31, 8, 95);
+    margin-left: 10%;
+    text-align: center;
+    border-radius: 35px;
+}
+.auto{
+  
+    font-size: 30px;
+    font-weight: 900;
+    font-style: oblique;
+    font-family: 'Courier New', Courier, monospace;
+    width: 30%;
+    border: 10px black double;
+    display: inline-block;
+    background-color:rgb(31, 8, 95);
+    margin-left: 10%;
+    text-align: center;
+    border-radius: 35px;
+}
+li{
+
+    width : auto;
+    display: block;
+    padding: 10px;
+ 
+}
+
+
+
+

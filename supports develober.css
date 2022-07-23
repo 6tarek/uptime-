@@ -1,0 +1,68 @@
+body{
+    background-image: url("https://images-ext-1.discordapp.net/external/JGOfNiz2ff9eBYEyQ4Jhoxk0_jALAuDJjGxQGah7Dwo/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/934837645606023189/7737d1cf24b3cf99fe0f4498b53a4515.png?width=511&height=511");
+    background-size: 100%;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom: auto;
+    margin-top: auto;
+    width: auto;
+    height: auto;
+
+}
+
+/*discord*/
+a:link.discorda{
+    background-color: blueviolet;
+    color: blue;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;   
+     border-radius: 20px;
+}  
+
+a:hover.discorda{
+    color: rgb(25, 2, 107)
+}
+.discord{
+    font-size: 30px;
+    font-weight: 900;
+    font-style: oblique;
+    font-family: 'Courier New', Courier, monospace;
+    border: 10px black double;
+    display: inline-block; 
+    margin-left: 10%;
+    text-align: center;
+    width: 30%;
+    border-radius: 35px;
+    background-color:rgb(255, 255, 255);
+}
+/*whatsadd*/
+a:link.whatsa{
+    background-color: rgba(63, 194, 24, 0.952);
+  color: green;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 20px;
+}
+.whats{
+    font-size: 30px;
+    font-weight: 900;
+    font-style: oblique;
+    font-family: 'Courier New', Courier, monospace;
+    width: 30%;
+    border: 10px black double;
+    display: inline-block;
+    background-color:rgb(255, 255, 255);
+    margin-left:10%;
+    text-align: center;
+    border-radius: 35px;
+}
+
+a:hover.whatsa{
+    color: rgb(2, 255, 192);
+}
+/**/
